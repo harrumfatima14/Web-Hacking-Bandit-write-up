@@ -1,6 +1,6 @@
-# Web Hacking Bandit Challenges (Levels 1-10) Write-Up
+# Web Hacking Bandit Challenges (Levels 0-34) Write-Up
 
-Welcome to the repository containing a detailed write-up for the Bandit web hacking challenges from levels 1 to 10. This write-up is designed to help you learn and understand web security concepts through practical examples.
+Welcome to the repository containing a detailed write-up for the Bandit web hacking challenges from levels 0 to 34. This write-up is designed to help you learn and understand web security concepts through practical examples.
 
 ## 📄 Content
 
