@@ -18,8 +18,12 @@ This write-up is intended for:
 ## 🚀 How to Use
 
 1. **Download the PDF:** https://github.com/harrumfatima14/Web-Hacking-Bandit-write-up/blob/main/OverTheWire(0-10).pdf
-2. **Review the Solutions:** Follow the detailed steps and explanations provided for each challenge.
-3. **Practice:** Use the insights gained to practice and refine your web security skills.
+2. https://github.com/harrumfatima14/Web-Hacking-Bandit-write-up/blob/main/OverTheWire(10-20).pdf
+3. https://github.com/harrumfatima14/Web-Hacking-Bandit-write-up/blob/main/OverTheWire(20-30).pdf
+4. https://github.com/harrumfatima14/Web-Hacking-Bandit-write-up/blob/main/OverTheWire(30-34).pdf
+5. 
+6. **Review the Solutions:** Follow the detailed steps and explanations provided for each challenge.
+7. **Practice:** Use the insights gained to practice and refine your web security skills.
 
 ## 🔗 Repository Link
 
